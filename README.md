@@ -1,4 +1,4 @@
-# Web-Projects-Template
+# Colblor Server (PHP)
 
 [Cette page en français.](LISEZMOI.md)
 

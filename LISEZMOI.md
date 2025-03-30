@@ -1,4 +1,4 @@
-# Web-Projects-Template
+# Colblor Server (PHP)
 
 [This page in English.](README.md)
 
